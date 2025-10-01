@@ -1,7 +1,7 @@
 package Jobsheet5;
 import java.util.Scanner;
 
-public class ifElseCetakKRS26 {
+public class ifElseCetakKRSS26 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("--- Cetak KRS Siakad ---");
